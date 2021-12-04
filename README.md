@@ -1,1 +1,1 @@
-# finding-clusters-in-bank-database-with-kmeans
+# Finding Clusters in bank database with kmeans
